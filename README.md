@@ -25,3 +25,9 @@ I value traceable evidence, reproducible analysis and useful recommendations ove
 ## Find my work
 
 Browse [my repositories](https://github.com/Arslkhan1421?tab=repositories). For Beyond SEO questions and contributions, use its [issue tracker](https://github.com/Arslkhan1421/beyond-seo-skill/issues) and [contribution guide](https://github.com/Arslkhan1421/beyond-seo-skill/blob/main/CONTRIBUTING.md).
+
+## Location and contact
+
+DHA 1, Islamabad
+
+[Connect on LinkedIn](https://www.linkedin.com/in/arslan-khan-04a7b4371/)
